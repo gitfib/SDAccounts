@@ -10,3 +10,7 @@ If you performed a dalvik/art cache wipe, it could take a very long time for the
 If you try to sign in anyway, and receive an unusual error, that's possibly because the account has already been loaded!
 
 Restart the app and check.
+
+# Screenshots
+![App Screenshot](/screenshot_app.png)
+![Accounts Screenshot](/screenshot_accounts.png)

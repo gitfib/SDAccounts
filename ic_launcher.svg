@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="ic_launcher.svg"
-   inkscape:export-filename="E:\Downloads\ic_vpn_key_black_24px.png"
-   inkscape:export-xdpi="900"
-   inkscape:export-ydpi="900">
+   inkscape:export-filename="ic_launcher.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,7 @@
      inkscape:transform-center-y="-0.055513319"
      transform="matrix(0.95111002,0.02978389,-0.02978389,0.95111002,1.1689156,0.40295069)" />
   <rect
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4140"
      width="24"
      height="24"

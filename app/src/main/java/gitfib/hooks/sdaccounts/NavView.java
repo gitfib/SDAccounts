@@ -77,7 +77,8 @@ public class NavView extends FrameLayout {
      * @param actionBar Action bar of the activity that contains this view.
      */
     public void autoUpButton(ActionBar actionBar) {
-        (this.actionBar = actionBar).setDisplayHomeAsUpEnabled(false);
+        if (actionBar != null)
+            (this.actionBar = actionBar).setDisplayHomeAsUpEnabled(false);
     }
 
     /**

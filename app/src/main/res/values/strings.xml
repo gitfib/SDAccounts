@@ -1,0 +1,58 @@
+<!--
+  ~ Copyright (c) 2016 Amir Maimon, and contributors
+  ~
+  ~ This software is provided 'as-is', without any express or implied
+  ~ warranty. In no event will the authors be held liable for any damages
+  ~ arising from the use of this software.
+  ~
+  ~ Permission is granted to anyone to use this software for any purpose,
+  ~ including commercial applications, and to alter it and redistribute it
+  ~ freely, subject to the following restrictions:
+  ~
+  ~ 1. The origin of this software must not be misrepresented; you must not
+  ~    claim that you wrote the original software. If you use this software
+  ~    in a product, an acknowledgement in the product documentation would be
+  ~    appreciated but is not required.
+  ~ 2. Altered source versions must be plainly marked as such, and must not be
+  ~    misrepresented as being the original software.
+  ~ 3. This notice may not be removed or altered from any source distribution.
+  -->
+
+<resources>
+    <string name="app_name">SDAccounts</string>
+    <string name="xposeddescription">Retains user accounts on phone if their associated app isn\'t found during boot.</string>
+    <string name="about_long">Retains user accounts on phone if their associated app isn\'t found during boot, as the case when the app is stored on an external storage that has yet to be mounted.\n
+Currently supports Kitkat, Lollipop and Marshmallow.\n
+\n
+After the wanted app is ready, it might take few minutes for the account to load, and it might appear as if SDAccounts doesn\'t work.\n
+If you performed a dalvik/art cache wipe, it could take a very long time for the apps and accounts to load.\n
+If you try to sign in anyway, and receive an unusual error, that\'s possibly because the account has already been loaded! Restart the app and check.\n
+\n
+Material Icons: Copyright © Google, licensed CC-BY 4.0\n
+https://design.google.com/icons\n
+\n
+App icon is based on Material Icons.\n
+\n
+SDAccounts is licensed under zlib license:\n
+\n
+Copyright © 2016 Amir Maimon, and contributors\n
+\n
+This software is provided \'as-is\', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.\n
+\n
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:\n
+\n
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgement in the product documentation would be appreciated but is not required.\n
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.\n
+3. This notice may not be removed or altered from any source distribution.</string>
+    <string name="about">About</string>
+    <string name="forum">Forum Thread</string>
+    <string name="source">Source Code</string>
+    <string name="uninstall">Uninstall Module</string>
+    <string name="enabled">Enabled.</string>
+    <string name="disabled">Disabled.</string>
+    <string name="module_status">Module Status</string>
+    <string name="version">Version 0.1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

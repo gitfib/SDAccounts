@@ -11,6 +11,14 @@ If you try to sign in anyway, and receive an unusual error, that's possibly beca
 
 Restart the app and check.
 
+[Forum Thread](http://forum.xda-developers.com/xposed/modules/xposed-sdaccounts-t3392173)
+
 # Screenshots
 ![App Screenshot](/screenshot_app.png)
 ![Accounts Screenshot](/screenshot_accounts.png)
+
+# Some Known Issues
+- User accounts are also retained after uninstalling the SD app without deleting the account first.
+
+# Experimental
+It has only been tested on one device, if you use it please report back :D

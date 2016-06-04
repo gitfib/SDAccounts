@@ -99,7 +99,7 @@ public class MainActivity extends Activity {
     }
 
     public void gotoSource(View v) {
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.github.com")).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/gitfib/SDAccounts")).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
     }
 
     public void gotoUninstall(View v) {

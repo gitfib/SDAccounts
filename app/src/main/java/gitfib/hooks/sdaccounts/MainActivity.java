@@ -95,7 +95,7 @@ public class MainActivity extends Activity {
     }
 
     public void gotoForum(View v) {
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.xda-developers.com")).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://forum.xda-developers.com/xposed/modules/xposed-sdaccounts-t3392173")).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
     }
 
     public void gotoSource(View v) {

@@ -18,7 +18,7 @@ Restart the app and check.
 ![Accounts Screenshot](/screenshot_accounts.png)
 
 # Some Known Issues
-- User accounts are also retained after uninstalling the SD app without deleting the account first.
+- User accounts are also retained after uninstalling the SD app.
 
 # Experimental
 It has only been tested on one device, if you use it please report back :D
